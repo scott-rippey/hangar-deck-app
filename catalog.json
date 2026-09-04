@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "teamId": "T8R47S2Z2J",
+  "products": [
+    {
+      "id": "cc-blackbox",
+      "name": "CC Blackbox",
+      "tagline": "A personal IDE and agent harness for Claude Code, with a flight recorder underneath.",
+      "bundleId": "ai.poweryourprocess.cc-blackbox",
+      "appName": "CC-Blackbox.app",
+      "feedUrl": "https://github.com/scott-rippey/cc-blackbox-app/releases/latest/download/latest-mac.yml",
+      "releasesUrl": "https://github.com/scott-rippey/cc-blackbox-app/releases",
+      "homepage": "https://github.com/scott-rippey/cc-blackbox-app",
+      "iconUrl": "https://raw.githubusercontent.com/scott-rippey/hangar-deck-app/main/icons/cc-blackbox.png"
+    },
+    {
+      "id": "model-radar",
+      "name": "Model Radar",
+      "tagline": "A read-only inventory of every AI model your projects use, with freshness and retirement checks.",
+      "bundleId": "ai.poweryourprocess.model-radar",
+      "appName": "Model Radar.app",
+      "feedUrl": "https://github.com/scott-rippey/model-radar-app/releases/latest/download/latest-mac.yml",
+      "releasesUrl": "https://github.com/scott-rippey/model-radar-app/releases",
+      "homepage": "https://github.com/scott-rippey/model-radar-app",
+      "iconUrl": "https://raw.githubusercontent.com/scott-rippey/hangar-deck-app/main/icons/model-radar.png"
+    },
+    {
+      "id": "hangar-deck",
+      "name": "Hangar Deck",
+      "tagline": "This app. Installs and updates the Power Your Process apps from one place.",
+      "bundleId": "ai.poweryourprocess.hangar-deck",
+      "appName": "Hangar-Deck.app",
+      "feedUrl": "https://github.com/scott-rippey/hangar-deck-app/releases/latest/download/latest-mac.yml",
+      "releasesUrl": "https://github.com/scott-rippey/hangar-deck-app/releases",
+      "homepage": "https://github.com/scott-rippey/hangar-deck-app",
+      "iconUrl": "https://raw.githubusercontent.com/scott-rippey/hangar-deck-app/main/icons/hangar-deck.png"
+    }
+  ]
+}
