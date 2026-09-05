@@ -4,7 +4,7 @@
     {
       "id": "cc-blackbox",
       "name": "CC Blackbox",
-      "tagline": "A personal IDE and agent harness for Claude Code, with a flight recorder underneath.",
+      "tagline": "A local macOS IDE and flight recorder for Claude Code: every session recorded, replayable, and costed, plus scheduled headless agents.",
       "description": "A local macOS IDE and flight recorder for Claude Code. Every session, interactive or headless, is recorded like a black box: every prompt, tool call, file touched, subagent, failure, and dollar, captured to a local SQLite database on your Mac and permanently reviewable.\n\nWatch a session live on the Ops Board, a real-time node scene of the orchestrator and each subagent, with an activity waveform of reads, edits, commands, and failures. Replay any recorded session as an animated timeline at up to 100x. Run scheduled headless agents from a GUI, with plain-English permission presets, budget caps, subagent crews, and throwaway git worktrees, then pick up any run's report in an interactive session.\n\nIt is also a workspace: multi-root projects, a CodeMirror editor with markdown, PDF, and image previews, shell and recorded Claude terminals, ripgrep search, an embedded Chromium browser, and Apple's iOS Simulator beside your code. Pair the iPhone companion to watch and steer live sessions from anywhere, end-to-end encrypted. No telemetry, no accounts, no cloud component.",
       "bundleId": "ai.poweryourprocess.cc-blackbox",
       "appName": "CC-Blackbox.app",
@@ -16,7 +16,7 @@
     {
       "id": "model-radar",
       "name": "Model Radar",
-      "tagline": "A read-only inventory of every AI model your projects use, with freshness and retirement checks.",
+      "tagline": "A read-only inventory of every AI model your projects use, with evidence, freshness tracking, and retirement checks. Bring your own key.",
       "description": "A read-only inventory of every AI model your projects use. Point it at your development folder and it finds each project, identifies the providers and models each one calls, with the evidence lines it found them in, and keeps the dashboard fresh as you work.\n\nA free first pass scans your code with ripgrep for model ids, SDK calls, and endpoints. An optional second pass sends only short excerpts to the provider of your choice, with your own API key, to confirm which model a project really uses. Retirement checks tell you when a model you depend on is deprecated or gone, and a chat assistant answers targeted questions about the inventory.\n\nIt never changes your files: the scan is structurally read-only, secrets are never read or sent, and everything it learns lives in a local database on your Mac.",
       "bundleId": "ai.poweryourprocess.model-radar",
       "appName": "Model Radar.app",
@@ -28,7 +28,7 @@
     {
       "id": "hangar-deck",
       "name": "Hangar Deck",
-      "tagline": "The launcher for the Power Your Process apps: install and update them from one place.",
+      "tagline": "The launcher for the Power Your Process Mac apps: see every app, install or update it here, and get told when something new lands.",
       "description": "The launcher for the Power Your Process Mac apps. One window and a menu bar item show every app, whether it is installed, and whether a newer version is out. Install and update them from here, and get told when something new lands.\n\nEvery download is verified against its published checksum and against the Power Your Process Developer ID signature before it is installed; anything that fails is discarded and the card says why. Nothing is uploaded. No accounts, no telemetry.",
       "bundleId": "ai.poweryourprocess.hangar-deck",
       "appName": "Hangar-Deck.app",
