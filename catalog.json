@@ -10,7 +10,7 @@
       "appName": "CC-Blackbox.app",
       "feedUrl": "https://github.com/scott-rippey/cc-blackbox-app/releases/latest/download/latest-mac.yml",
       "releasesUrl": "https://github.com/scott-rippey/cc-blackbox-app/releases",
-      "homepage": "https://poweryourprocess.ai",
+      "homepage": "https://github.com/scott-rippey/cc-blackbox-app",
       "iconUrl": "https://raw.githubusercontent.com/scott-rippey/hangar-deck-app/main/icons/cc-blackbox.png"
     },
     {
@@ -22,19 +22,19 @@
       "appName": "Model Radar.app",
       "feedUrl": "https://github.com/scott-rippey/model-radar-app/releases/latest/download/latest-mac.yml",
       "releasesUrl": "https://github.com/scott-rippey/model-radar-app/releases",
-      "homepage": "https://poweryourprocess.ai",
+      "homepage": "https://github.com/scott-rippey/model-radar-app",
       "iconUrl": "https://raw.githubusercontent.com/scott-rippey/hangar-deck-app/main/icons/model-radar.png"
     },
     {
       "id": "hangar-deck",
       "name": "Hangar Deck",
-      "tagline": "This app. Installs and updates the Power Your Process apps from one place.",
+      "tagline": "The launcher for the Power Your Process apps: install and update them from one place.",
       "description": "The launcher for the Power Your Process Mac apps. One window and a menu bar item show every app, whether it is installed, and whether a newer version is out. Install and update them from here, and get told when something new lands.\n\nEvery download is verified against its published checksum and against the Power Your Process Developer ID signature before it is installed; anything that fails is discarded and the card says why. Nothing is uploaded. No accounts, no telemetry.",
       "bundleId": "ai.poweryourprocess.hangar-deck",
       "appName": "Hangar-Deck.app",
       "feedUrl": "https://github.com/scott-rippey/hangar-deck-app/releases/latest/download/latest-mac.yml",
       "releasesUrl": "https://github.com/scott-rippey/hangar-deck-app/releases",
-      "homepage": "https://poweryourprocess.ai",
+      "homepage": "https://github.com/scott-rippey/hangar-deck-app",
       "iconUrl": "https://raw.githubusercontent.com/scott-rippey/hangar-deck-app/main/icons/hangar-deck.png"
     }
   ]
