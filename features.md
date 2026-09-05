@@ -10,8 +10,8 @@ A single glass window. The header carries the app icon, the last-checked time
 ## Apps
 
 One card per product from the catalog: the app's own icon (read from the
-installed bundle; from the catalog when not installed), name, status pill,
-tagline, installed version, latest version when different, and a Release
+installed bundle; from the catalog when not installed), name, status pill, the opening of its
+description on one line, installed version, latest version when different, and a Release
 notes link. The single action button follows the status:
 
 - Not installed: Install x.y.z
