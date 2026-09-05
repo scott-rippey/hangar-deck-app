@@ -17,6 +17,10 @@ If an app is open when you update it, Hangar Deck asks it to quit first. If
 it does not quit (an unsaved document, a dialog), the card says so; close the
 app yourself and press Update again.
 
+Click a card to read the full description of an app, with its versions,
+Release notes and Website links, and the same Install, Update, or Open
+action. OK, Esc, or clicking outside closes it.
+
 Release notes opens the app's release page in your browser.
 
 ## Hangar Deck updating itself

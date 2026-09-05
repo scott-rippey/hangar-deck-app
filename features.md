@@ -27,6 +27,11 @@ notes link. The single action button follows the status:
 - Hangar Deck itself: Update stages the new version and the button becomes
   Restart to Update; the swap happens at quit.
 
+Click anywhere on a card (outside its buttons) to open the details panel:
+the icon, the full description, installed and latest versions, Release notes
+and Website links, the app's one action, and OK. Esc, OK, or a click outside
+closes it.
+
 A footer line says whether the catalog is live from GitHub or the built-in copy.
 
 ## Menu bar
@@ -46,8 +51,9 @@ the app.
 
 ## Settings
 
-Glass window (on by default; recreates the window), Open at login (hidden in
-the menu bar), Notify me about updates. The About row shows the Power Your
+Glass window (on by default; recreates the window), Open at login (the app
+registers itself as a login item; when the OS launches it at login it stays
+in the menu bar with no window until you click), Notify me about updates. The About row shows the Power Your
 Process mark, the product name, the running version, and the newer version
 when one exists.
 
