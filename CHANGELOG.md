@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1
+
+The line on each card is now the opening of the same description you read when you click in, cut with an ellipsis, instead of a separate one-liner.
+
 ## 1.0.0
 
 Click any app's card to open its details: the full description, installed and latest versions, Release notes and Website links, and the same Install, Update, or Open action, with OK to close. Each app now carries a full description in the catalog. Open at login registers only when you turn it on.
